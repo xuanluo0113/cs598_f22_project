@@ -20,7 +20,7 @@ The training data (MIMIC-III) used in the project is publically available with r
 
 ### Preprocessing code
 
-Preprocessing code and libraries are in `data_processing` folder and can be retrieved using `data_processing.load_data` command.
+Preprocessing code and libraries are in `data_processing.py` and can be retrieved using `data_processing.load_data` command.
 
 ### Training & Evalue code 
 
